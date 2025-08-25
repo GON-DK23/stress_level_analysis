@@ -82,6 +82,5 @@ Bộ dữ liệu bao gồm nhiều biến liên quan đến thông tin cá nhân
 ---
 
 ## 👨‍💻 Tác giả
-Thực hiện bởi [Trần Đăng Khôi](www.linkedin.com/in/trandangkhoi184)
-
+Thực hiện bởi [Trần Đăng Khôi](www.linkedin.com/in/trandangkhoi184)\\
 Mục đích: Học tập và nghiên cứu trong lĩnh vực **Phân tích dữ liệu & Tâm lý học với R**.
